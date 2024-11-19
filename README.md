@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<!--
-**csorcor0910/csorcor0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**csorcor0910/csorcor0910** es un repositorio ✨ _especial_ ✨ , porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
+
+Completa el perfil con los datos que creas convenientes.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
